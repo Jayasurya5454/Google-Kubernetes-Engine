@@ -1,0 +1,6 @@
+variable "project" {
+
+}
+variable "region" {
+    
+}
